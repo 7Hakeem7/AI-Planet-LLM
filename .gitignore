@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+venv/
+
+# Docker
+docker-compose.yml
+Dockerfile  # Correcting the typo here
+
+# Node.js/React.js
+node_modules/
+build/
+dist/
+
+# Ignore logs and other OS-specific files
+*.log
+*.DS_Store
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm IDE files
+.idea/
